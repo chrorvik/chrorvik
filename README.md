@@ -20,4 +20,4 @@
 
 <img align="left" alt="chrorvik Github Statistikk!" src="https://github-readme-stats.vercel.app/api?username=chrorvik&show_icons=true&hide_border=true" />
 
-![Was it difficult to understand the above here?] (https://media.giphy.com/media/3oKHWa8DyEfPc3baCc/giphy.gif)
+Was it difficult to understand the above here?] (https://media.giphy.com/media/3oKHWa8DyEfPc3baCc/giphy.gif)
