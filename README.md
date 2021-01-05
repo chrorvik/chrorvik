@@ -1,4 +1,4 @@
-# Hallaisen! :wave: 
+# Hallaisen! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 ## Jeg heter Christoffer, kult at du tok deg turen hit!
 
 [![Website](https://img.shields.io/website?label=kystbonden.no&style=for-the-badge&url=http%3A%2F%2Fkystbonden.no)](http://kystbonden.no)
