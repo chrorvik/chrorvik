@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc48)
 ![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc48)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc48)
+![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=2bbc48)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc48)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc48)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc48)
