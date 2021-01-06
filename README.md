@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc48)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc48)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc48)
-![](https://img.shields.io/badge/Code-Ruby-on-Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=2bbc48)
+![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=2bbc48)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc48)
 ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=2bbc48)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc48)
