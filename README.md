@@ -26,6 +26,5 @@
 ![](https://img.shields.io/badge/Tools-Ubiquiti-informational?style=flat&logo=ubiquiti&logoColor=white&color=2bbc48)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc48)
 ![](https://img.shields.io/badge/Tools-Nodejs-informational?style=flat&logo=node.js&logoColor=white&color=2bbc48)
-![](https://img.shields.io/badge/Tools-Brave-informational?style=flat&logo=brave&logoColor=white&color=2bbc48)   
 ![](https://img.shields.io/badge/Host-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc48)
 ![](https://img.shields.io/badge/Dev-Shopify-informational?style=flat&logo=shopify&logoColor=white&color=2bbc48)
