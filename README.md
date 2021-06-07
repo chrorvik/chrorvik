@@ -9,7 +9,7 @@
 I live on a small farm with my family, we share this with a flock of sheep, some chickens, a couple of cats and different vegetables. 
 
 #### Work :construction_worker:
-I work as a e-commerce developer in a Norwegian company. Mainly B2B, but also B2C.
+I work as a e-commerce developer in a Norwegian company. Mainly B2B.
 
 #### Hobbys :nerd_face:
 I have created a group for kids in the area who want to learn more about technology. Our focus so far has been on introducing coding, robotics and automation. Tools we have used are: [microbit](https://microbit.org/), [air:bit](https://www.makekit.no/airbit), [hover:bit](https://www.makekit.no/hoverbit), [Smart home kit](https://www.elecfreaks.com/micro-bit-smart-home-kit.html), [Lego SPIKE](https://education.lego.com/en-us/meetspikeprime) and [Scratch](https://scratch.mit.edu/). If you want more information, you can check out these links (only in Norwegian): [Lær kidsa koding](https://www.kidsakoder.no/) and [Kodeklubben Vestnes](http://kidsa.tech).
