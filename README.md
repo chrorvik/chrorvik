@@ -25,51 +25,52 @@ I have created a group for kids in the area who want to learn more about technol
 ##### Youtube
 
 ###### Cybersecurity + more 
-[John Hammond](https://www.youtube.com/c/JohnHammond010)
-[David Bombal](https://www.youtube.com/c/DavidBombal)
+- [John Hammond](https://www.youtube.com/c/JohnHammond010)
+- [David Bombal](https://www.youtube.com/c/DavidBombal)
 
 ###### Networking + more
-[Network Chuck](https://www.youtube.com/c/NetworkChuck/)
-[Crosstalk Solutions](https://www.youtube.com/c/CrosstalkSolutions/)
+- [Network Chuck](https://www.youtube.com/c/NetworkChuck/)
+- [Crosstalk Solutions](https://www.youtube.com/c/CrosstalkSolutions/)
 
 ###### Microsoft, Computers + more
-[Scott Hanselman](https://www.youtube.com/c/shanselman/videos)
+- [Scott Hanselman](https://www.youtube.com/c/shanselman/videos)
 
 ###### Webdev
-[Traversy Media](https://www.youtube.com/c/TraversyMedia)
-[Dev Ed](https://www.youtube.com/c/DevEd)
-[Tech with Tim](https://www.youtube.com/c/TechWithTim)
-[freeCodeCamp](https://www.youtube.com/c/Freecodecamp)
-[fireship.io](https://www.youtube.com/c/Fireship)
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+- [Dev Ed](https://www.youtube.com/c/DevEd)
+- [Tech with Tim](https://www.youtube.com/c/TechWithTim)
+- [freeCodeCamp](https://www.youtube.com/c/Freecodecamp)
+- [fireship.io](https://www.youtube.com/c/Fireship)
 
 ###### Data Structures & Algorithms 
-[CS Dojo](https://www.youtube.com/c/CSDojo)
+- [CS Dojo](https://www.youtube.com/c/CSDojo)
 
 ###### Design
-[Davies MediaDesign](https://www.youtube.com/c/DaViesMediaDesign/)
-[Logos By Nick](https://www.youtube.com/c/LogosByNick)
-[DesignCourse](https://www.youtube.com/c/DesignCourse)
+- [Davies MediaDesign](https://www.youtube.com/c/DaViesMediaDesign/)
+- [Logos By Nick](https://www.youtube.com/c/LogosByNick)
+- [DesignCourse](https://www.youtube.com/c/DesignCourse)
 
 ##### Learning sites / Courses
+
 ###### Fullstack
-[The Odin Project](https://www.theodinproject.com/)
-[Wes Bos](https://wesbos.com/)
-[Scott Tolinski](https://www.leveluptutorials.com/)
+- [The Odin Project](https://www.theodinproject.com/)
+- [Wes Bos](https://wesbos.com/)
+- [Scott Tolinski](https://www.leveluptutorials.com/)
 
 ###### Frontend
-[Josh Comeau](https://www.joshwcomeau.com/)
-[Scrimba](https://scrimba.com/)
-[Developed by Ed](https://developedbyed.com/)
+- [Josh Comeau](https://www.joshwcomeau.com/)
+- [Scrimba](https://scrimba.com/)
+- [Developed by Ed](https://developedbyed.com/)
 
 ###### Cybersecurity
-[Hack the Box](https://www.hackthebox.eu/)
+- [Hack the Box](https://www.hackthebox.eu/)
 
 ##### Podcasts
-[Syntax.fm](https://syntax.fm/)
-[Darknet Diaries](https://darknetdiaries.com/)
+- [Syntax.fm](https://syntax.fm/)
+- [Darknet Diaries](https://darknetdiaries.com/)
 
 ##### Where to keep yourself updated
-[Kode24.no (norwegian)](https://www.kode24.no/)
-[Hacker News](https://news.ycombinator.com/)
-[DEV](https://dev.to/)
-[web.dev](https://web.dev/)
+- [Kode24.no (norwegian)](https://www.kode24.no/)
+- [Hacker News](https://news.ycombinator.com/)
+- [DEV](https://dev.to/)
+- [web.dev](https://web.dev/)
