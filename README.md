@@ -1,30 +1,9 @@
-# Hallaisen! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
-## :man: Jeg heter Christoffer, kult at du tok deg turen hit!
+# This is me :arrow_down:
 
-![Website](https://img.shields.io/website?label=kystbonden.no&style=for-the-badge&up_color=%232bbc48&url=http%3A%2F%2Fkystbonden.no)
-[![Twitter Follow](https://img.shields.io/twitter/follow/chrorvik?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchrorvik&screen_name=chrorvik)
+![Chris](IMG_0027.GIF)
 
-## :bowtie: Kort om meg
-- :books: Front-end / teknologi-entusiast! :computer:
-- :sheep: Har småbruk med dyr, kone og tre barn :heart:
+[![Twitter Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kystbonden/)
 
-## :wrench: Teknologi og verktøy
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc48)
-![](https://img.shields.io/badge/OS-Pop_OS-informational?style=flat&logo=linux&logoColor=white&color=2bbc48)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc48)
-![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc48)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc48)    
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=2bbc48)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc48)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc48)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc48)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=2bbc48)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc48)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc48)  
-![](https://img.shields.io/badge/Tools-Raspberry_Pi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=2bbc48)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc48)
-![](https://img.shields.io/badge/Tools-Ubiquiti-informational?style=flat&logo=ubiquiti&logoColor=white&color=2bbc48)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc48)
-![](https://img.shields.io/badge/Tools-Nodejs-informational?style=flat&logo=node.js&logoColor=white&color=2bbc48)
-![](https://img.shields.io/badge/Host-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc48)
-![](https://img.shields.io/badge/Partner-Shopify-informational?style=flat&logo=shopify&logoColor=white&color=2bbc48)
+:sheep: I live on a small farm with my family, we share this with a flock of sheep, some chickens, a couple of cats and many vegetables. 
+:construction_worker: Works as a developer in a Norwegian company that delivers goods internationally. Mainly B2B, but also B2C.
+:nerd_face: I have created a group for kids in the are who want to learn more about technology. Our focus so far has been on introducing coding, robotics and automation. Tools we have used are: [microbit](https://microbit.org/), [air:bit](https://www.makekit.no/airbit),[hover:bit](https://www.makekit.no/hoverbit), [Smart home kit](https://www.elecfreaks.com/micro-bit-smart-home-kit.html), [Lego SPIKE](https://education.lego.com/en-us/meetspikeprime) and [Scratch](https://scratch.mit.edu/). If you want more information, you can check out these links (only in Norwegian): [Lær kidsa koding](https://www.kidsakoder.no/) and [Kodeklubben Vestnes](http://kidsa.tech)
