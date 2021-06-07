@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kystbonden/)
 
 ## About me
-#### Privat :sheep:
+#### Private :sheep:
 I live on a small farm with my family, we share this with a flock of sheep, some chickens, a couple of cats and different vegetables. 
 
 #### Work :construction_worker:
