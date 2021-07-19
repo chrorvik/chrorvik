@@ -23,7 +23,7 @@ I work as a e-commerce developer in a Norwegian company, mainly B2B.
 
 - [ ] Explore [Eleventy](https://www.11ty.dev/)
 - [ ] Build a Arcade with Retropie
-- [ ] Upgrade [Homeseer](https://homeseer.com/)
+- [ ] Improve [Homeseer](https://homeseer.com/)
 
 ### Kudos :vulcan_salute:
 - [John Hammond](https://www.youtube.com/c/JohnHammond010)
