@@ -1,13 +1,9 @@
-# This is me :arrow_down:
-
-![Chris](IMG_0027.GIF)
-
 # About me
 ### Private :sheep:
 I live on a small farm with my family, we share this with a flock of sheep, some chickens, a couple of cats and different vegetables. 
 
 ### Work :construction_worker:
-I work as a e-commerce developer in a Norwegian company, mainly B2B.
+I worked as a e-commerce developer in a Norwegian company, mainly B2B. I now work as a teacher in information technology and media production. 
 
 ### Hobbys :nerd_face:
 [Lær kidsa koding](https://www.kidsakoder.no/)
