@@ -6,13 +6,13 @@ I live on a small farm with my family, we share this with a flock of sheep, some
 I worked as a e-commerce developer in a Norwegian company, mainly B2B. I now work as a teacher in information technology and media production. 
 
 ### Hobbys :nerd_face:
-[Lær kidsa koding](https://www.kidsakoder.no/)
-[microbit](https://microbit.org/) 
-[air:bit](https://www.makekit.no/airbit) 
-[hover:bit](https://www.makekit.no/hoverbit) 
-[Smart home kit](https://www.elecfreaks.com/micro-bit-smart-home-kit.html) 
-[Lego SPIKE](https://education.lego.com/en-us/meetspikeprime) 
-[Scratch](https://scratch.mit.edu/)
+[Lær kidsa koding](https://www.kidsakoder.no/)/
+[microbit](https://microbit.org/)/
+[air:bit](https://www.makekit.no/airbit)/ 
+[hover:bit](https://www.makekit.no/hoverbit)/ 
+[Smart home kit](https://www.elecfreaks.com/micro-bit-smart-home-kit.html)/ 
+[Lego SPIKE](https://education.lego.com/en-us/meetspikeprime)/
+[Scratch](https://scratch.mit.edu/)/
 
 
 ### Projects :seedling:
