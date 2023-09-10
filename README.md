@@ -12,7 +12,7 @@
 2022 High School teacher IT / system / cloud / full stack development
 ```
 ```bash
-➜ ls -la
+➜ ls
 drwxrwxr-x 11 chris chris     4096 sep.  10 15:34  .
 drwxr-xr-x 40 chris chris     4096 aug.  27 14:37  ..
 drwxrwxr-x  3 chris chris     4096 sep.  10 15:34  John Hammond
