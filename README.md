@@ -1,31 +1,25 @@
-# About me
-### Private :sheep:
-I live on a small farm with my family, we share this with a flock of sheep, some chickens, a couple of cats and different vegetables. 
+# Hi, I'm Chris! :wave:
 
-### Work :construction_worker:
-I worked as a e-commerce developer in a Norwegian company, mainly B2B. I now work as a teacher in information technology and media production. 
+<img align="right" width="30%" src="https://media.giphy.com/media/l3q2zbskZp2j8wniE/giphy-downsized-large.gif">
 
-### Hobbys :nerd_face:
-[Lær kidsa koding](https://www.kidsakoder.no/)\
-[microbit](https://microbit.org/)\
-[air:bit](https://www.makekit.no/airbit/)\
-[hover:bit](https://www.makekit.no/hoverbit/)\
-[Smart home kit](https://www.elecfreaks.com/micro-bit-smart-home-kit.html/)\
-[Lego SPIKE](https://education.lego.com/en-us/meetspikeprime/)\
-[Scratch](https://scratch.mit.edu/)
-
-
-### Projects :seedling:
-
-- [ ] Explore [Eleventy](https://www.11ty.dev/)
-- [ ] Build a Arcade with Retropie
-- [ ] Improve [Homeseer](https://homeseer.com/)
-
-### Kudos :vulcan_salute:
-- [John Hammond](https://www.youtube.com/c/JohnHammond010)
-- [Scott Hanselman](https://www.youtube.com/c/shanselman/videos)
-- [fireship.io](https://www.youtube.com/c/Fireship)
-- [The Odin Project](https://www.theodinproject.com/)
-- [Syntax.fm](https://syntax.fm/)
-- [Darknet Diaries](https://darknetdiaries.com/)
-- [Kode24.no (norwegian)](https://www.kode24.no/)
+```bash
+➜ pwd
+/norway/chris
+➜ history
+1988 root
+2006 ICT apprentice
+2017 Front end development
+2022 High School teacher IT / system / cloud / full stack development
+```
+```bash
+➜ ls -la
+drwxrwxr-x 11 chris chris     4096 sep.  10 15:34  .
+drwxr-xr-x 40 chris chris     4096 aug.  27 14:37  ..
+drwxrwxr-x  3 chris chris     4096 sep.  10 15:34  John Hammond
+drwxrwxr-x  6 chris chris     4096 april 14  2019  Scott Hanselman
+drwxrwxr-x  5 chris chris     4096 april 14  2019  fireship.io
+drwxrwxr-x  6 chris chris     4096 mai   26  2019  The Odin Project
+drwxrwxr-x  6 chris chris     4096 mai   28  2019  Syntax.fm
+drwxrwxr-x  6 chris chris     4096 mai   27  2019  Darknet Diaries
+-rw-rw-r--  1 chris chris 15707888 mai   28  2019  Kode24.no
+```
